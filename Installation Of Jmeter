@@ -1,0 +1,15 @@
+
+For Linux Ubuntu :
+
+(1) Download latest version of Apache Jmeter from the link given below:
+    http://jmeter.apache.org/download_jmeter.cgi
+
+(2) Extract the Folder in the directory where you want to install it and it is done. No need of extra installation.
+
+(3) To run the Jmeter GUI :
+    (a) Go to the bin folder.
+    (b) Run jmeter.sh (shell file) if there is any problem in execution then change the mode and make it executable.
+
+(4) Example :
+    > cd Documents/apache-jmeter-2.13/bin
+    > ./jmeter.sh     (if error in execution run chmod +xX jmeter.sh before it).

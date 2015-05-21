@@ -1,5 +1,5 @@
 # IIT-BombayX-Cloud
-IIT BombayX Performance Related Data and Knowledge
+IIT BombayX Performance Related Data
 
 Hi Guys
 
